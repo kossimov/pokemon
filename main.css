@@ -27,3 +27,12 @@ body {
   border: 2px solid #00000047;
   
 }
+
+.title {
+  margin-top: 0;
+  font-weight: 900;
+  font-size: 150px;
+  text-align: center;
+  margin-bottom: 50px;
+  color: rgb(110, 187, 114);
+}
